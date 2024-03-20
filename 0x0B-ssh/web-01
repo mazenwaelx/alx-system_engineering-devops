@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# server -01 login
+
+eval $("ssh-agent")
+
+
+ssh ubuntu@35.175.134.232
